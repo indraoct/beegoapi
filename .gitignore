@@ -3,7 +3,6 @@
 *.DS_Store
 /lastupdate.tmp
 /projectFilesBackup
-/conf/app.conf
 beegoapi
 cpu-6288.pprof
 mem-6288.memprof
