@@ -1,7 +1,7 @@
-package main
+package src
 
 import (
-	_ "beegoapi/routers"
+	_ "beegoapi/src/routers"
 	"github.com/astaxie/beego/orm"
 	"time"
 	_ "github.com/go-sql-driver/mysql"

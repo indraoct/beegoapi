@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"beegoapi/models"
+	"beegoapi/src/models"
 	"github.com/astaxie/beego"
 )
 
