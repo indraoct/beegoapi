@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  beegoapi:
+    build: .
+    ports:
+      - 9191:9191
+    env_file:
+      - .env
