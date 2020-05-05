@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"beegoapi/controllers"
+	"github.com/indraoct/beegoapi/controllers"
 	"github.com/astaxie/beego"
 )
 

@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"beegoapi/models"
+	"github.com/indraoct/beegoapi/models"
 	"github.com/astaxie/beego"
 )
 

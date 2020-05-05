@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "beegoapi/routers"
+	_ "github.com/indraoct/beegoapi/routers"
 	"github.com/astaxie/beego/orm"
 	"time"
 	_ "github.com/go-sql-driver/mysql"
