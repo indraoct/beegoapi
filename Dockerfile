@@ -1,5 +1,5 @@
 FROM golang:1.14
-WORKDIR /go/src/beegoapi
+WORKDIR /go/src/github.com/indraoct/beegoapi
 
 COPY . .
 
