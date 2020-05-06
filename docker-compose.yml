@@ -7,3 +7,4 @@ services:
       - 9191:9191
     env_file:
       - .env
+    image: indraoctama/beegoapi
